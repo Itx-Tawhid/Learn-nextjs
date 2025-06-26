@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <div>
         <h1>Hello World</h1>
-        <button onClick={() => navigate("about")}>About</button>
+        <button onClick={() => navigate("user")}>User</button>
       </div>
     </>
   );
